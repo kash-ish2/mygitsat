@@ -1,1 +1,2 @@
 what sup guys 
+i want to add something into my git repository to know weather its working or not
